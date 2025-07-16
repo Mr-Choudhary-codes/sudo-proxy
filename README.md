@@ -19,3 +19,6 @@ Read the docs at https://docs.movie-web.app/proxy/introduction
  - AWS lambda
  - nodejs
  - netlify edge functions
+
+
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Mr-Choudhary-codes/M3U8-Proxy)
